@@ -33,6 +33,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikzone1&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikzone1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔥 Recent Contributions:
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikZone1&theme=github-compact)](https://github.com/suraj0-11/github-readme-activity-graph)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikzone1&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -40,6 +45,5 @@
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=NikZone1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  
 
-[![](https://visitcount.itsvg.in/api?id=NikZone1&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 </div>
