@@ -13,7 +13,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nxk_hxl)   
 
 # 💻 Tech Stack: 
-[![My Skills](https://skillicons.dev/icons?i=c,css,django,docker,electron,flask,git,github,html,js,jenkins,nodejs,ps,pr,py,react,tailwind,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,django,docker,electron,flask,git,github,html,js,jenkins,nodejs,ps,pr,py,react,tailwind,vite,vscode&perline=8&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nikzone1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
