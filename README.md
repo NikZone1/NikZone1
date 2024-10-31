@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Yoo, Nikhil here! (ins4ne)!</a>🫡</h1>
+---
 # 💫 About Me:  
 💼 **About Me:**  
 🌍 **Learning Journey:** Continuously diving into emerging tech and expanding my expertise in Software Development.  
